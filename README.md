@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack projects and improving my backend development skills.<br><br>👯 I’m looking to collaborate on open-source web development and full-stack projects.<br><br>🤝 I’m looking for help with advanced system design and scalable backend architecture.<br><br>🌱 I’m currently learning Data Structures & Algorithms and improving my problem-solving skills.<br><br>💬 Ask me about MERN stack, HTML, CSS, JavaScript, and Java backend.<br><br>⚡ Fun fact: I enjoy learning new technologies and exploring different cultures.<br>
+AI Engineer | Generative AI | LLMs | RAG | PEFT/LoRA | Vector Databases | AI Agents | Full-Stack AI Applications | Open Source Enthusiast
 
 
 ## 🌐 Socials:
