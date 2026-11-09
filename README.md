@@ -1,4 +1,4 @@
-# Jaya Hareeswar Reddy
+# Jaya Hareeswar Reddy Gudisa
 
 **AI Engineer | LLM Applications | Generative AI**
 
