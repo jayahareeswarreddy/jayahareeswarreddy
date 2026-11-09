@@ -8,6 +8,24 @@ AI Engineer focused on building and deploying LLM-powered applications and agent
 
 [LinkedIn](https://www.linkedin.com/in/jayahareeswarreddy/) · [GitHub](https://github.com/jayahareeswarreddy)
 
+## Selected work
+
+**[Prompt2UI](https://github.com/jayahareeswarreddy/Prompt2UI)** — [live](https://prompt2-ui-tau.vercel.app/)
+Describe an interface in plain English and it renders. The prompt only chooses which
+whitelisted components to use and how to configure them, so the same prompt always
+produces the same UI. Planner → validator → generator, all pure TypeScript.
+
+**[AI Resume Analyzer & LinkedIn Scraper](https://github.com/jayahareeswarreddy/AI_Resume_Analyzer_Linkedin_JobScraper)**
+Streamlit app that analyses a resume with Groq's LLaMA 3 — strengths, gaps, suggested
+titles — then scrapes matching LinkedIn postings with Selenium.
+
+**[FutureTrack-AI](https://github.com/jayahareeswarreddy/FutureTrack-AI)** — [live](https://jayahareeswarreddy.github.io/FutureTrack-AI/)
+Career guidance platform over 24+ career paths. FastAPI and MongoDB behind a React
+front end, with GPT-generated recommendations and step-by-step learning roadmaps.
+
+**[Portfolio](https://jayahareeswarreddy.github.io/)**
+A single hand-written HTML file, no build step, themed as an arcade cabinet.
+
 ## Tech Stack
 
 ### AI & LLM Engineering
