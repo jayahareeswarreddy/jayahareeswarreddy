@@ -13,7 +13,6 @@ I build backend services and AI applications with Python, FastAPI, retrieval sys
 - [RAG Eval](https://github.com/jayahareeswarreddy/rag-eval) — benchmarked 27 retrieval configurations over 875 Python standard-library modules; [live demo](https://rag-eval-7psf.onrender.com).
 - [FutureTrackAI](https://github.com/jayahareeswarreddy/FutureTrack-AI) — career recommendations across 24 paths, with FastAPI, schema-validated LLM output, and deterministic fallbacks; [live demo](https://jayahareeswarreddy.github.io/FutureTrack-AI/).
 - [Prompt2UI](https://github.com/jayahareeswarreddy/Prompt2UI) — deterministic React UI builder with a fixed component library and version rollback; [live demo](https://prompt2-ui-tau.vercel.app/).
-- [Brain Tumor Detection research](https://jayahareeswarreddy.github.io/) — CNN–VGG16 MRI classifier; portfolio summary reports 99% accuracy across eight classes.
 
 ## Technologies
 
