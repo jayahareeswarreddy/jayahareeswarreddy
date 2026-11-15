@@ -12,7 +12,7 @@ I build backend services and AI applications with Python, FastAPI, retrieval sys
 
 - [RAG Eval](https://github.com/jayahareeswarreddy/rag-eval) — benchmarked 27 retrieval configurations over 875 Python standard-library modules; [live demo](https://rag-eval-7psf.onrender.com).
 - [FutureTrackAI](https://github.com/jayahareeswarreddy/FutureTrack-AI) — career recommendations across 24 paths, with FastAPI, schema-validated LLM output, and deterministic fallbacks; [live demo](https://jayahareeswarreddy.github.io/FutureTrack-AI/).
-- [Prompt2UI](https://github.com/jayahareeswarreddy/Prompt2UI) — deterministic React UI builder with a fixed component library and version rollback; [live demo](https://prompt2-ui-tau.vercel.app/).
+- [ChangeStream](https://github.com/jayahareeswarreddy/ChangeStream) — local-first PostgreSQL change-data-capture with Debezium and Kafka; a Python consumer projects row changes into a read model with at-least-once, replay-safe delivery and a dead-letter queue.
 
 ## Technologies
 
